@@ -6,28 +6,27 @@ This dataset, consisting of 184 images of Turkish celebrities, has been meticulo
 The merger of these sources not only enriches the dataset with a broad spectrum of facial expressions but also infuses cultural diversity into the realm of FER.
 
 During the dataset labeling process, three experts independently classified the data. The labeling process was then completed using the majority method for each image. 
-In cases where each expert labeled an image differently, the researchers assigned the most appropriate label to the data. The statistics of the ATS_FER2024 dataset are presented in Table 1.
-TABLE 1	The statistics of the ATS_FER2024 dataset
+In cases where each expert labeled an image differently, the researchers assigned the most appropriate label to the data. The statistics of the ATS_FER2024 dataset are presented below.
 
 # Dataset informations
-----------
-----------
-Table 1
-----------
-----------
-_______________________________ 
-|  Anger      |  20  Samples  |
-|  Disgust    |  15  Samples  |
-|  Fear       |  19  Samples  |
-|  Happy      |  72  Samples  |
-|  Neutral    |  31  Samples  |
-|  Sad        |  14  Samples  |
-|  Surprise   |  13  Samples  |
-_______________________________           
 
+----------
+----------
+
+Anger      :  20  Samples  
+Disgust    :  15  Samples  
+Fear       :  19  Samples  
+Happy      :  72  Samples  
+Neutral    :  31  Samples  
+Sad        :  14  Samples  
+Surprise   :  13  Samples  
+
+----------
+----------         
 # ATS_FER2024
+
 - 48x48 pixels
 - 184 images
-This compilation carries significant implications for both Türkiye and the global FER research community.
-The inclusion of Turkish celebrities ensures a representation of facial expressions specific to the cultural nuances of Türkiye.
-Furthermore, the dataset's incorporation of expressions captured from television series introduces a dynamic range of emotions, adding a layer of authenticity to the dataset.
+- This compilation carries significant implications for both Türkiye and the global FER research community.
+- The inclusion of Turkish celebrities ensures a representation of facial expressions specific to the cultural nuances of Türkiye.
+- Furthermore, the dataset's incorporation of expressions captured from television series introduces a dynamic range of emotions, adding a layer of authenticity to the dataset.
