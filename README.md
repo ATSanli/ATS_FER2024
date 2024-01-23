@@ -29,3 +29,13 @@ Surprise   :  13  Samples
 - This compilation carries significant implications for both Türkiye and the global FER research community.
 - The inclusion of Turkish celebrities ensures a representation of facial expressions specific to the cultural nuances of Türkiye.
 - Furthermore, the dataset's incorporation of expressions captured from television series introduces a dynamic range of emotions, adding a layer of authenticity to the dataset.
+- Data Augmentation - DPDA version of Dataset is realesed!
+- Contact for any collab!
+
+
+
+saran.murat@gmail.com
+tunasanli006@gmail.com
+----------
+---------- 
+www.z-gen.com.tr
