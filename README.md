@@ -23,7 +23,6 @@ Surprise   :  13  Samples
 
 ----------
 ----------         
-# ATS_FER2024
 
 - 48x48 pixels
 - 184 images
