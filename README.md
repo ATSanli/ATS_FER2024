@@ -1,5 +1,5 @@
 # ATS_FER2024
-FER Turkish Celebrities Dataset
+Facial Emotion Recognition Turkish Celebrities Dataset
 
 The introduction of a novel facial expression dataset, ATS_FER_DB_2024, emerges as a crucial milestone in the landscape of Facial Expression Recognition (FER) research. 
 This dataset, consisting of 184 images of Turkish celebrities, has been meticulously curated from diverse sources, including the Internet and television series. 
