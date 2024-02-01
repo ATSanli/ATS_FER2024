@@ -34,7 +34,7 @@ Surprise   :  13  Samples
 
 
 
-saran.murat@gmail.com
+
 tunasanli006@gmail.com
 ----------
 ---------- 
